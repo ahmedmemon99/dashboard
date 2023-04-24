@@ -1,0 +1,27 @@
+[
+  {
+      "type": "slider",
+      "title": "weekend offer",
+      "endpoint": "/weekendoffer"
+  },
+  {
+      "type": "listview",
+      "title": "newproduct",
+      "endpoint": "/newproducts"
+  },
+  {
+      "type": "gridview",
+      "title": "categorys",
+      "endpoint": "/weekendoffer"
+  },
+  {
+      "type": "listview",
+      "title": "recently visited",
+      "endpoint": "/weekendoffer"
+  },
+  {
+      "type": "listview",
+      "title": "product of the month",
+      "endpoint": "/productofMonth"
+  }
+]
